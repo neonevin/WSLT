@@ -43,14 +43,14 @@ ServerRuntimeMBean as the root.
 use ls() to list the MBeans and config
 Lists all the child beans and/or attributes for the current configuration or runtime bean. You can optionally control the output by specifying an argument. If no argument is specified, the command lists all child beans and attributes in the domain
 
-wls:/psdev/serverConfig/> ls ()
-dr--   AdminConsole
-dr--   AppDeployments
-dr--   BatchConfig
-dr--   BridgeDestinations
-dr--   CdiContainer
-dr--   Clusters
-dr--   CoherenceClusterSystemResources
+*wls:/psdev/serverConfig/> ls ()
+*dr--   AdminConsole
+*dr--   AppDeployments
+*dr--   BatchConfig
+*dr--   BridgeDestinations
+*dr--   CdiContainer
+*dr--   Clusters
+*dr--   CoherenceClusterSystemResources
 ....
 ....
 -r--   AdminServerName                              PIA
