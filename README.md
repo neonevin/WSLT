@@ -57,18 +57,29 @@ dr--   CdiContainer
 dr--   Clusters
 
 dr--   CoherenceClusterSystemResources
+
 ....
+
 ....
+
 -r--   AdminServerName                              PIA
+
 -r--   AdministrationMBeanAuditingEnabled           false
+
 -r--   AdministrationPort                           9002
+
 -r--   AdministrationPortEnabled                    false
+
 -r--   AdministrationProtocol                       t3s
+
 -r--   ArchiveConfigurationCount                    0
 
 -r-x   arePartitionsPresent                         Boolean :
+
 -r-x   findConfigBeansWithTags                      WebLogicMBean[] : String(type),Boolean(matchAll),String[](tags)
+
 -r-x   findConfigBeansWithTags                      WebLogicMBean[] : String(type),String[](tags)
+
 -r-x   findPartitionByID                            WebLogicMBean : String(id)
 
 The dr-- are the directories and -r-- are properties. -r-x are methods
