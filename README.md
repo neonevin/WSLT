@@ -10,7 +10,7 @@ e.g: /psoft/oracle/weblogic/wl12.2.1.3/oracle_common/common/bin/wlst.sh
 
 Sample
 
-[psoft@kirra ~]$ /psoft/oracle/weblogic/wl12.2.1.3/oracle_common/common/bin/wlst.sh
+[psoft@websrv1 ~]$ /psoft/oracle/weblogic/wl12.2.1.3/oracle_common/common/bin/wlst.sh
 Picked up _JAVA_OPTIONS: -Djava.security.egd=file:/dev/./urandom
 
 Initializing WebLogic Scripting Tool (WLST) ...
